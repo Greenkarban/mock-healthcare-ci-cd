@@ -9,7 +9,7 @@ It includes:
 
 ---
 
-## 🚀 CI/CD Workflow
+##  CI/CD Workflow
 The pipeline (`.github/workflows/ci-cd-pipeline.yml`) covers:
 
 1. **Commit / Push** – Developer pushes code.
@@ -31,7 +31,7 @@ The pipeline (`.github/workflows/ci-cd-pipeline.yml`) covers:
 
 ---
 
-## 📌 Context
+##  Context
 This repo is a **work product showcase** to illustrate my ability as a Product Manager / BA to:
 - Document workflows and requirements
 - Collaborate using GitHub & DevOps practices
