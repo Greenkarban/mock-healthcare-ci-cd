@@ -5,7 +5,7 @@ This repository demonstrates how Olatayo Jetawo (Product Manager / Business Syst
 It includes:
 - **Documentation**: Product requirements, workflow diagrams, and supporting artifacts.
 - **CI/CD Pipeline**: A sample GitHub Actions workflow for build → test → deploy.
-- **Collaboration Tools**: Pull request template and changelog for structured releases.
+- **Collaboration Tools**: a sample Pull request and changelog for structured releases.
 
 ---
 
@@ -23,7 +23,7 @@ The pipeline (`.github/workflows/ci-cd-pipeline.yml`) covers:
 ---
 
 ## 📂 Repo Contents
-- `docs/` → Product requirements, diagrams, showcase PDF
+- `docs/` → Product requirements, diagrams, my showcase PDF
 - `.github/` → GitHub templates and workflows
 - `src/` → Placeholder application source
 - `tests/` → Placeholder test scripts
