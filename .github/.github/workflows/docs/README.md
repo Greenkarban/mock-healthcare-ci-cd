@@ -1,6 +1,6 @@
 # Mock Healthcare App CI/CD Showcase
 
-This repository demonstrates how a Product Manager / Business Analyst can collaborate with engineering and DevOps teams by structuring product documentation, workflows, and CI/CD pipelines in GitHub.
+This repository demonstrates how Olatayo Jetawo (Product Manager / Business Systems Analyst) collaborates with engineering and DevOps teams by structuring product documentation, workflows, and CI/CD pipelines in GitHub.
 
 It includes:
 - **Documentation**: Product requirements, workflow diagrams, and supporting artifacts.
